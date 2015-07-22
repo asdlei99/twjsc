@@ -7,7 +7,7 @@
     <author email="245565986@qq.com" href="http://tool.lu/">
         xiaozi
     </author>
-    <content src="http://twjcn.szzxcm.com/index.php?g=Shop&amp;m=Index&amp;a=index" />
+	<content src="http://app.twjyg.com/index.php?g=Shop&amp;m=Index&amp;a=index" />
     <preference name="permissions" value="none" />
     <preference name="orientation" value="default" />
     <preference name="target-device" value="universal" />
@@ -20,6 +20,7 @@
     <preference name="exit-on-suspend" value="false" />
     <preference name="show-splash-screen-spinner" value="true" />
     <preference name="auto-hide-splash-screen" value="true" />
+    <preference name="fade-splash-screen-duration" value="3" />
     <preference name="disable-cursor" value="false" />
     <preference name="android-minSdkVersion" value="10" />
     <preference name="android-installLocation" value="auto" />
