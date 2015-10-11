@@ -18,6 +18,9 @@
         }
     },
     "installed_plugins": {
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.twjyg.app"
+        },
         "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "com.twjyg.app"
         }

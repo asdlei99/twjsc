@@ -37,7 +37,8 @@ var app = {
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
-        window.location.href = "http://twjcn.szzxcm.com/index.php?g=Shop&m=Index&a=index";
-        alert(window.location.href);
+        // window.location.href = "http://app.twjyg.com/index.php?g=Shop&amp;m=Index&amp;a=index";
+        window.open("http://app.twjyg.com/index.php?g=Shop&amp;m=Index&amp;a=index", "_self");
+        // window.open("https://tool.lu", "_self");
     }
 };
